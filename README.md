@@ -9,5 +9,3 @@ As I embark on this learning journey, my goal is to develop a deep knowledge int
 
 The projects primarily utilize Tensorflow for anything neural networks related.
 
-## Python version
-Python 3.10.12
