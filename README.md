@@ -8,3 +8,6 @@ This repository serves as my playground for exploring and learning through hands
 As I embark on this learning journey, my goal is to develop a deep knowledge into how neural networks work, read and understand ML/A.I papers and how to implement them and also get full grasp and experience on the tools used in the field of A.I. I believe in the power of collaboration, so feel free to contribute, discuss, and share your insights on any project!
 
 The projects primarily utilize Tensorflow for anything neural networks related.
+
+## Python version
+Python 3.10.12
